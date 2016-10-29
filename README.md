@@ -14,4 +14,5 @@ via [Neuroptikon](https://github.com/JaneliaSciComp/Neuroptikon) which
 does not unfortunately generate vector graphics for publication. This
 code is licensed according to the license in `LICENSE.janelia.txt`. Everything else is MIT Licensed. 
 
+Note this is all done in matplotlib, so you can tweak aspect ratio, exact placement, etc. Pull requests welcome! 
 
