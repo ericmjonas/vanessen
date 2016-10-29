@@ -112,5 +112,5 @@ ax.set_xlim(-0.4, 0.4)
 ax.set_ylim(-0.77, 0.05)
 fig.tight_layout()
 fig.savefig("primate.pdf")
-fig.savefig("primate.png", dpi=200)
+fig.savefig("primate.png", dpi=300)
 
