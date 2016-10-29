@@ -14,6 +14,7 @@ ax = fig.add_subplot(1, 1, 1)
 ax.set_axis_off()
 
 
+
 xmlstr = open('Primate Visual System.xml', 'r').read()
 
 region_id_to_pos = {}
